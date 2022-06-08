@@ -1,0 +1,8 @@
+{application,fancyapi,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{fancyapi_app,[]}},
+              {env,[]},
+              {modules,[fancyapi_app,fancyapi_callback,fancyapi_sup]}]}.
