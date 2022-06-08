@@ -1,4 +1,4 @@
-# Erlang Client-Server Concurrent Application
+# Erlang Concurrent Client-Server Application
 
 This is a Academic project built with Erlang on a simple Client-Server architecture to demonstrate the concurrency concept.    
 The client is responsible for creating CRUD calls on the Post resource on the server and the server handles the events by applying the CRUDs on Post resource stored in a Redis server.
